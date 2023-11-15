@@ -64,6 +64,7 @@ class _ExampleFourState extends State<ExampleFour> {
     );
   }
 }
+// ignore: must_be_immutable
 class ReusableRow extends StatelessWidget {
   String title,value;
 
